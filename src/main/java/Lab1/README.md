@@ -6,4 +6,4 @@
 - Create a GitHub account and keep track of changes in the remote repository.
 
 ### Screenshot:
-![Screenshot](images/screenshot.png)
+![Screenshot](../../../../images/screenshot.png)
